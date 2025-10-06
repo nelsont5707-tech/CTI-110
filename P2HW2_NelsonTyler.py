@@ -1,6 +1,6 @@
 # Tyler Nelson
 # 10/05/2025
-# P2HW1
+# P2HW2
 # This program asks you to enter grades for six modules, calculates and displays the lowest grade, highest grade, sum of grades, and the average grade.
 
 # The program asks the user to enter a grade for each of the six modules.
